@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="project.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3982">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3984" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3986" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3759">
+      <stop
+         style="stop-color:#e1e1e9;stop-opacity:1;"
+         offset="0"
+         id="stop3761" />
+      <stop
+         style="stop-color:#e1e1e9;stop-opacity:0;"
+         offset="1"
+         id="stop3763" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="radialGradient3765"
+       cx="54.548237"
+       cy="412.93561"
+       fx="54.548237"
+       fy="412.93561"
+       r="18.687822"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3815"
+       x="-0.47457818"
+       width="1.9491564"
+       y="-0.49634456"
+       height="1.9926891">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.996599"
+         id="feGaussianBlur3817" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3803"
+       x="-0.21828985"
+       width="1.4365797"
+       y="-0.15313828"
+       height="1.3062766">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.727884"
+         id="feGaussianBlur3805" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3823"
+       x="-0.34759702"
+       width="1.695194"
+       y="-0.12144446"
+       height="1.2428889">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3702775"
+         id="feGaussianBlur3825" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3959">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.41454374"
+         id="feGaussianBlur3961" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3963">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.42894041"
+         id="feGaussianBlur3965" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3982"
+       id="radialGradient3997"
+       gradientUnits="userSpaceOnUse"
+       cx="-88.893425"
+       cy="341.21478"
+       fx="-88.893425"
+       fy="341.21478"
+       r="29.294424" />
+    <filter
+       inkscape:collect="always"
+       id="filter4023"
+       x="-0.21086859"
+       width="1.4217372"
+       y="-0.22172036"
+       height="1.4434407">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3482501"
+         id="feGaussianBlur4025" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="223.41402"
+     inkscape:cy="546.16742"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3765);fill-opacity:1;stroke:none;stroke-width:0.33300000000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3757"
+       sodipodi:cx="54.548237"
+       sodipodi:cy="412.93561"
+       sodipodi:rx="18.687822"
+       sodipodi:ry="18.687822"
+       d="m 73.236059,412.93561 a 18.687822,18.687822 0 1 1 -37.375644,0 18.687822,18.687822 0 1 1 37.375644,0 z"
+       transform="translate(8.5862966,-1.5152288)"
+       inkscape:export-filename="F:\Unity\Bit Wars\Assets\Sprites\EnemySource.png"
+       inkscape:export-xdpi="64.910004"
+       inkscape:export-ydpi="64.910004" />
+    <path
+       sodipodi:type="star"
+       style="fill:#e1e1e9;fill-opacity:1;stroke:none"
+       id="path3771"
+       sodipodi:sides="5"
+       sodipodi:cx="62.124382"
+       sodipodi:cy="629.10828"
+       sodipodi:r1="2.6545255"
+       sodipodi:r2="5.309051"
+       sodipodi:arg1="-0.87638911"
+       sodipodi:arg2="-0.24807058"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 63.823093,627.06845 3.447819,0.73627 -2.68161,2.28879 0.365198,3.50659 -3.005424,-1.84309 -3.222115,1.43092 0.824156,-3.42788 -2.356575,-2.62223 3.514781,-0.27545 1.765672,-3.05155 z"
+       inkscape:transform-center-x="-0.0055618891"
+       inkscape:transform-center-y="-0.62135778"
+       transform="matrix(0.99876927,-0.04959787,0.04959787,0.99876927,-31.12597,3.8555002)" />
+    <path
+       transform="matrix(0.99876927,-0.04959787,0.04959787,0.99876927,-31.12597,3.8555002)"
+       inkscape:transform-center-y="-0.62135778"
+       inkscape:transform-center-x="-0.0055618891"
+       d="m 63.823093,627.06845 3.447819,0.73627 -2.68161,2.28879 0.365198,3.50659 -3.005424,-1.84309 -3.222115,1.43092 0.824156,-3.42788 -2.356575,-2.62223 3.514781,-0.27545 1.765672,-3.05155 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.24807058"
+       sodipodi:arg1="-0.87638911"
+       sodipodi:r2="5.309051"
+       sodipodi:r1="2.6545255"
+       sodipodi:cy="629.10828"
+       sodipodi:cx="62.124382"
+       sodipodi:sides="5"
+       id="path3773"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3815)"
+       sodipodi:type="star"
+       inkscape:export-filename="F:\Unity\Bit Wars\Assets\Sprites\Enemy.png"
+       inkscape:export-xdpi="146.34"
+       inkscape:export-ydpi="146.34" />
+    <rect
+       style="fill:#0071b1;fill-opacity:0.6137566;stroke:none"
+       id="rect2991"
+       width="74.285713"
+       height="74.285713"
+       x="164.28571"
+       y="369.50504"
+       inkscape:export-filename="F:\Unity\Bit Wars\Assets\Sprites\WallBlock.png"
+       inkscape:export-xdpi="70.93"
+       inkscape:export-ydpi="70.93" />
+    <g
+       id="g3893"
+       transform="translate(-5.0507601,55.55839)"
+       inkscape:export-filename="F:\Unity\Bit Wars\Assets\Sprites\BinaryParticles.png"
+       inkscape:export-xdpi="70.93"
+       inkscape:export-ydpi="70.93">
+      <g
+         transform="translate(-18,-40.981598)"
+         id="g3829">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect3011"
+           width="37.018402"
+           height="37.018402"
+           x="-64.878502"
+           y="210.48094" />
+        <text
+           xml:space="preserve"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           x="-56.985382"
+           y="242.52994"
+           id="text3003"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3005"
+             x="-56.985382"
+             y="242.52994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK">0</tspan></text>
+      </g>
+      <g
+         transform="translate(19.018402,-80.981613)"
+         id="g3834">
+        <rect
+           y="250.48096"
+           x="-64.878502"
+           height="37.018402"
+           width="37.018402"
+           id="rect3781"
+           style="fill:none;stroke:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3803);font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           x="-56.985382"
+           y="282.52994"
+           id="text3787"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3789"
+             x="-56.985382"
+             y="282.52994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK">0</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3783"
+           y="282.52994"
+           x="-56.985382"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+             y="282.52994"
+             x="-56.985382"
+             id="tspan3785"
+             sodipodi:role="line">0</tspan></text>
+      </g>
+      <g
+         transform="translate(-18,-83.963211)"
+         id="g3841">
+        <rect
+           y="290.48096"
+           x="-64.878502"
+           height="37.018402"
+           width="37.018402"
+           id="rect3807"
+           style="fill:none;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3809"
+           y="322.52994"
+           x="-52.217297"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+             y="322.52994"
+             x="-52.217297"
+             id="tspan3811"
+             sodipodi:role="line">1</tspan></text>
+      </g>
+      <g
+         transform="translate(19.018402,-123.96321)"
+         id="g3846">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect3813"
+           width="37.018402"
+           height="37.018402"
+           x="-64.878502"
+           y="330.48096" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3819"
+           y="362.52994"
+           x="-52.217297"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3823);font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+             y="362.52994"
+             x="-52.217297"
+             id="tspan3821"
+             sodipodi:role="line">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           x="-52.217297"
+           y="362.52994"
+           id="text3815"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3817"
+             x="-52.217297"
+             y="362.52994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK">1</tspan></text>
+      </g>
+      <g
+         transform="translate(-18,-46.944809)"
+         id="g3853">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect3855"
+           width="37.018402"
+           height="37.018402"
+           x="-64.878502"
+           y="290.48096" />
+        <text
+           xml:space="preserve"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           x="-52.217297"
+           y="322.52994"
+           id="text3857"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3859"
+             x="-52.217297"
+             y="322.52994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK">1</tspan></text>
+      </g>
+      <g
+         transform="translate(19.018402,-86.944809)"
+         id="g3861">
+        <rect
+           y="330.48096"
+           x="-64.878502"
+           height="37.018402"
+           width="37.018402"
+           id="rect3863"
+           style="fill:none;stroke:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3823);font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           x="-52.217297"
+           y="362.52994"
+           id="text3865"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3867"
+             x="-52.217297"
+             y="362.52994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK">1</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3869"
+           y="362.52994"
+           x="-52.217297"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+             y="362.52994"
+             x="-52.217297"
+             id="tspan3871"
+             sodipodi:role="line">1</tspan></text>
+      </g>
+      <g
+         transform="translate(-18,-78)"
+         id="g3873">
+        <rect
+           y="210.48094"
+           x="-64.878502"
+           height="37.018402"
+           width="37.018402"
+           id="rect3875"
+           style="fill:none;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3877"
+           y="242.52994"
+           x="-56.985382"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+             y="242.52994"
+             x="-56.985382"
+             id="tspan3879"
+             sodipodi:role="line">0</tspan></text>
+      </g>
+      <g
+         transform="translate(19.018402,-118.00002)"
+         id="g3881">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect3883"
+           width="37.018402"
+           height="37.018402"
+           x="-64.878502"
+           y="250.48096" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3885"
+           y="282.52994"
+           x="-56.985382"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3803);font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+             y="282.52994"
+             x="-56.985382"
+             id="tspan3887"
+             sodipodi:role="line">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:37.24892807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK"
+           x="-56.985382"
+           y="282.52994"
+           id="text3889"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3891"
+             x="-56.985382"
+             y="282.52994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ryuker BRK;-inkscape-font-specification:Ryuker BRK">0</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3967"
+       inkscape:export-filename="F:\Unity\Bit Wars\Assets\Sprites\FriendlyNetwork.png"
+       inkscape:export-xdpi="359.97"
+       inkscape:export-ydpi="359.97"
+       transform="translate(-17.172593,40.911178)">
+      <g
+         id="g3990">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3941"
+           sodipodi:cx="-88.893425"
+           sodipodi:cy="341.21478"
+           sodipodi:rx="29.294424"
+           sodipodi:ry="29.294424"
+           d="m -59.599001,341.21478 c 0,16.17887 -13.11556,29.29443 -29.294424,29.29443 -16.178865,0 -29.294425,-13.11556 -29.294425,-29.29443 0,-16.17886 13.11556,-29.29442 29.294425,-29.29442 16.178864,0 29.294424,13.11556 29.294424,29.29442 z"
+           transform="matrix(1.0478292,0,0,1.0478292,19.349429,1.4122048)" />
+        <path
+           transform="matrix(1.0126605,0,0,1.0126605,16.223169,13.412263)"
+           d="m -59.599001,341.21478 c 0,16.17887 -13.11556,29.29443 -29.294424,29.29443 -16.178865,0 -29.294425,-13.11556 -29.294425,-29.29443 0,-16.17886 13.11556,-29.29442 29.294425,-29.29442 16.178864,0 29.294424,13.11556 29.294424,29.29442 z"
+           sodipodi:ry="29.294424"
+           sodipodi:rx="29.294424"
+           sodipodi:cy="341.21478"
+           sodipodi:cx="-88.893425"
+           id="path3943"
+           style="fill:none;stroke:#ffffff;stroke-width:0.51736444;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           sodipodi:type="arc" />
+        <path
+           transform="matrix(1.0478292,0,0,1.0478292,19.349429,1.4122048)"
+           d="m -59.599001,341.21478 c 0,16.17887 -13.11556,29.29443 -29.294424,29.29443 -16.178865,0 -29.294425,-13.11556 -29.294425,-29.29443 0,-16.17886 13.11556,-29.29442 29.294425,-29.29442 16.178864,0 29.294424,13.11556 29.294424,29.29442 z"
+           sodipodi:ry="29.294424"
+           sodipodi:rx="29.294424"
+           sodipodi:cy="341.21478"
+           sodipodi:cx="-88.893425"
+           id="path3955"
+           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3959)"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:url(#radialGradient3997);fill-opacity:1;stroke:none"
+           id="path3945"
+           sodipodi:cx="-88.893425"
+           sodipodi:cy="341.21478"
+           sodipodi:rx="29.294424"
+           sodipodi:ry="29.294424"
+           d="m -59.599001,341.21478 c 0,16.17887 -13.11556,29.29443 -29.294424,29.29443 -16.178865,0 -29.294425,-13.11556 -29.294425,-29.29443 0,-16.17886 13.11556,-29.29442 29.294425,-29.29442 16.178864,0 29.294424,13.11556 29.294424,29.29442 z"
+           transform="matrix(0.94206202,0,0,0.94206202,9.947425,37.501522)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ffffff;stroke-width:0.51736444;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3963)"
+           id="path3957"
+           sodipodi:cx="-88.893425"
+           sodipodi:cy="341.21478"
+           sodipodi:rx="29.294424"
+           sodipodi:ry="29.294424"
+           d="m -59.599001,341.21478 c 0,16.17887 -13.11556,29.29443 -29.294424,29.29443 -16.178865,0 -29.294425,-13.11556 -29.294425,-29.29443 0,-16.17886 13.11556,-29.29442 29.294425,-29.29442 16.178864,0 29.294424,13.11556 29.294424,29.29442 z"
+           transform="matrix(1.0126605,0,0,1.0126605,16.223169,13.412263)" />
+      </g>
+    </g>
+    <g
+       id="g4027"
+       inkscape:export-filename="F:\Unity\Bit Wars\Assets\Sprites\Unit1.png"
+       inkscape:export-xdpi="169.84"
+       inkscape:export-ydpi="169.84">
+      <path
+         sodipodi:type="star"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4023)"
+         id="path4005"
+         sodipodi:sides="5"
+         sodipodi:cx="174.46429"
+         sodipodi:cy="484.14789"
+         sodipodi:r1="8.0673981"
+         sodipodi:r2="6.5266619"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 174.46429,492.21529 -7.67255,-5.57444 2.93066,-9.01962 9.48379,0 2.93066,9.01962 z"
+         inkscape:transform-center-y="1.2259121"
+         transform="matrix(1.5134502,0,0,1.5913356,-85.501262,-284.05954)" />
+      <path
+         transform="matrix(1.5134502,0,0,1.5913356,-85.501262,-284.05954)"
+         inkscape:transform-center-y="1.2259121"
+         d="m 174.46429,492.21529 -7.67255,-5.57444 2.93066,-9.01962 9.48379,0 2.93066,9.01962 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="6.5266619"
+         sodipodi:r1="8.0673981"
+         sodipodi:cy="484.14789"
+         sodipodi:cx="174.46429"
+         sodipodi:sides="5"
+         id="path4003"
+         style="fill:#000000;fill-opacity:0.12865497;stroke:#ffffff;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
