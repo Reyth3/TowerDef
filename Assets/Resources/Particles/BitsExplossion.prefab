@@ -21,6 +21,7 @@ GameObject:
   - 4: {fileID: 4000013924449778}
   - 198: {fileID: 198000014033236138}
   - 199: {fileID: 199000010937257054}
+  - 114: {fileID: 114000012066072276}
   m_Layer: 0
   m_Name: BitsExplossion
   m_TagString: Untagged
@@ -41,6 +42,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!114 &114000012066072276
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013690165338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ce9d308ca1910b4fb0170f31ec7879e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 2.25
 --- !u!198 &198000014033236138
 ParticleSystem:
   m_ObjectHideFlags: 1

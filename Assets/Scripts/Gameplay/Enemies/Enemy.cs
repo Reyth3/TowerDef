@@ -5,6 +5,7 @@ public class Enemy : MonoBehaviour {
 
     public Vector3 direction;
     public float speed,damage,health;
+    public int Gold { get { return (5 + 2 * Random.Range(0, 2)) + Random.Range(0, 2); } }
     public Color color = new Color(1, 1, 1);
 
     private SpriteRenderer sr;
@@ -65,8 +66,11 @@ public class Enemy : MonoBehaviour {
     public void DealDamage(float dmg)
     {
         health -= dmg;
-        Debug.Log("Dmg: "+dmg+" Remaining HP: " + health);
+        Debug.Log("Dmg: " + dmg + " Remaining HP: " + health);
         if (health <= 0f)
+        {
+            LevelData.Current.gold += Gold;
             Destroy(gameObject);
+        }
     }
 }

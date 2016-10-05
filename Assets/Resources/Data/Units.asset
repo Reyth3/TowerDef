@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51c60a4bc2c763c48b2857da4ab09fb3, type: 3}
+  m_Name: Units
+  m_EditorClassIdentifier: 
+  units:
+  - name: 0x8 Buffer
+    description: Short-ranged turret that shoots 1 byte of data with each bullet.
+    prefabName: Unit1
+    price: 35
+  - name: 0x8 High-Speed Buffer
+    description: A turret with good accuracy and long-distance ammo
+    prefabName: Unit2
+    price: 100

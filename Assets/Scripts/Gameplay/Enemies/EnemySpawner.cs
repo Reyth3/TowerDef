@@ -6,7 +6,7 @@ public class EnemySpawner : MonoBehaviour {
     public GameObject[] enemies;
     public Vector3 relativeSpawnPoint = new Vector3(1,0,0), startingDirection = new Vector3(1, 0, 0);
     public int waves = 1, enemiesPerWave = 5, enemiesIncrease = 0;
-    public float enemiesDelay = 1;
+    public float enemiesDelay = 1,healthIncrease =0.5f, damageMultiplier=1.075f;
     private int wave = 0;
     private SpriteRenderer sr;
     private bool isSpawning = false;
@@ -32,7 +32,8 @@ public class EnemySpawner : MonoBehaviour {
             yield return new WaitForSeconds(enemiesDelay);
         }
         isSpawning = false;
-        yield return new WaitForSeconds(3);
+        wave ++;
+        yield return new WaitForSeconds(7.5f);
         Wave();
     }
 
@@ -43,5 +44,7 @@ public class EnemySpawner : MonoBehaviour {
         var e = go.GetComponent<Enemy>();
         e.direction = startingDirection;
         e.color = sr.color;
+        e.health += wave * healthIncrease;
+        e.damage *= damageMultiplier+(wave*0.1f);
     }
 }

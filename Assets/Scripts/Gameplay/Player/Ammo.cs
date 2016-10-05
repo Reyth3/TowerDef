@@ -9,17 +9,18 @@ public class Ammo : MonoBehaviour {
 	void Start () {
         Vector3 lookPos = target - transform.position;
         float angle = Mathf.Atan2(lookPos.y, lookPos.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.Euler(0f, 0f, -angle);
+        transform.rotation = Quaternion.Euler(0f, 0f, angle);
     }
 
-    float lifetime = 7f;
+    float lifetime = 1.25f;
 	// Update is called once per frame
 	void Update () {
-        transform.position += transform.right*speed*Time.deltaTime;
+        transform.Translate(speed * Time.deltaTime, 0f, 0f, Space.Self);
+        //transform.position += transform.right*speed*Time.deltaTime;
         EnemyHitTest();
         lifetime -= Time.deltaTime;
         if (lifetime < 0f)
-            Destroy(this);
+            Destroy(gameObject);
     }
 
     void EnemyHitTest()

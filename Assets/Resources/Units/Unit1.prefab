@@ -53,10 +53,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ammo: {fileID: 1000012771591842, guid: 5dd5b80e9858a9049a3715fb2ed34c35, type: 2}
-  cooldown: 0.05
+  cooldown: 0.75
   damage: 1
-  range: 2
-  shotSpeed: 4
+  range: 2.5
+  shotSpeed: 2.5
   cooldownUpgrade: 0
   damageUpgrade: 0
   rangeUpgrade: 0
